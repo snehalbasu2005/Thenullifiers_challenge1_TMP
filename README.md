@@ -10,4 +10,5 @@ Key Insights and findings:
 1. A small loyal customer base is their greatest asset.
 2. Customer ratings are a direct predictor of sales and perfomance
 3. Operational factors directly influence order value and satisfaction
+
 For a more detailed breakdown, please refer to our full analysis in the jupyter notebook and the accompanying presentation.
